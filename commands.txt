@@ -1,3 +1,4 @@
+this is commmands for git 
 sudo apt install git 
 git --version 
 git init
